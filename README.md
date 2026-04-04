@@ -1,4 +1,4 @@
-# GTRacer Reinvented
+# GTRacer Rebuild
 
 GTRacer is currently undergoing a **complete rebuild**.
 
