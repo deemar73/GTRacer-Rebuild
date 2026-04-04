@@ -1,72 +1,80 @@
-# browser-racing-game-revival
-Legacy browser-based racing game seeking collaborators for modernization.
+# GTRacer Reinvented
 
-# Browser Racing Game Revival
+GTRacer is currently undergoing a **complete rebuild**.
 
-## What This Is
-This is a legacy browser-based racing management game that was originally built in 2009 and I bought it in 2019 as a systems-heavy project focused on cars, parts, stats, and progression. The game already includes functioning dealership, engine, inventory, and pricing systems, but the underlying architecture and UI are outdated. I’m looking to modernize and clean up the codebase rather than start over from scratch. This repository exists to find collaborators interested in helping revive and reshape the project.
+This is not a restoration of the original game, and it is not a temporary revival. The goal is to rebuild GTRacer from the ground up into the game it was always meant to be.
 
-## What Already Exists
-- Core gameplay systems
-- Car dealership & inventory
-- Engine & parts systems
-- Stats, pricing, progression logic
+---
 
-## Why This Needs Help
-The game was built over a long period of time using patterns and assumptions that made sense then, but don’t hold up well now. The codebase is tightly coupled, hard to extend, and not friendly to iteration or UI improvements. While the core systems work, making meaningful changes or adding new features has become increasingly difficult. I’m looking for help refactoring, reorganizing, and modernizing the structure so the project can evolve again.
+## Project Status
 
-## The Vision
-The goal of this project is to revive and modernize a system-heavy browser-based racing game while preserving the depth that made it interesting to revamp in the first place. The game is intended to balance meaningful simulation and approachability, focusing on cars, parts, progression, and tradeoffs rather than flashy presentation.
+* The legacy version of the game is **offline**
+* It will **not be brought back online** during development
+* This project is focused on a **full redesign and rebuild**, not patching or maintaining the old system
+* There is currently **no public release timeline**
 
-Modernization means improving the underlying architecture, separating concerns more cleanly, and creating a UI that supports the mechanics instead of obscuring them. This is envisioned as a long-term, evolving project rather than a rushed rebuild, with an emphasis on maintainability, clarity, and thoughtful iteration. Commercialization is not a current goal, but the project is being shaped with enough care that future options remain open.
+While portions of the original game and data still exist, they are being used as reference — not as a foundation to relaunch.
 
+---
 
-## Who I Am
-I’m the fourth owner of this project and have been working on it on and off since 2019 as a system-driven game. My background with the project spans both design and programming, with a stronger emphasis on systems thinking, mechanics, and long-term structure.
+## The Direction
 
-I’m looking to collaborate rather than work in isolation at this stage. I value open discussion, mutual respect, and realistic scope, and I see collaborators as true partners in shaping the project’s future. While the original vision matters to me, I’m open to ideas and alternative approaches as long as changes are made deliberately and in service of the game’s core goals. In terms of design, the game was built around a high degree of mechanical flexibility. Engines are not locked to specific vehicles, body kits are designed to be compatible across a large portion of the car roster, and players can customize elements such as license plates, paint, and parts. These systems were intentional and form part of what makes the project interesting to revisit rather than replace.
+GTRacer is being rebuilt as a **system-driven racing experience** focused on depth, strategy, and long-term progression.
 
+The original game contained strong ideas, but was limited by its structure, technical debt, and design constraints. This rebuild is an opportunity to correct those limitations and evolve the concept properly.
 
-## What Help I’m Looking For
-I’m not looking for a single “hero dev” or a quick fix. I’m looking for one or two or even three collaborators who enjoy untangling legacy systems and helping shape a cleaner foundation.
+The focus is on:
 
-Areas where help would be especially valuable:
-- Reviewing and understanding the existing codebase
-- Helping plan a more modern architecture (without throwing everything away blindly)
-- Backend or systems-focused refactoring
-- Frontend/UI modernization and separation of concerns
-- General technical guidance and second opinions
+* building a clean, maintainable foundation
+* redesigning core systems instead of layering fixes on top of legacy code
+* creating meaningful tradeoffs in car builds, tuning, and progression
+* moving away from restrictive or unbalanced mechanics that limited gameplay
+* delivering a more cohesive and intentional player experience
 
-I’m open to different levels of involvement — from occasional guidance to hands-on refactoring — as long as expectations are clear and realistic.
+This is not about recreating what existed — it is about building something better.
 
+---
 
-## Compensation
-This is an unpaid, volunteer passion project.
+## Development Approach
 
-## Why You Might Want to Help
-This project may be a good fit if you:
-- Enjoy legacy code archaeology and refactoring challenges
-- Like system-heavy games and simulation logic
-- Want visible impact on a real project, not a tutorial
-- Are interested in collaborative problem-solving without corporate pressure
-- Appreciate honesty about scope, limitations, and goals
-- If you enjoy system design that prioritizes flexibility — for example, allowing engines and cosmetic parts to work across many vehicles instead of being hard-locked — this project may be especially interesting.
+This project is being developed deliberately and independently.
 
+Rather than rushing toward a quick release, the focus is on:
 
-## Design & Feature Mockups
-### Dealership & Vehicle Browsing
-![Dealership mockup](images/Car_Models_Shop.png)
-Mockup of the planned dealership and vehicle browsing system, including stats, pricing, and availability.
+* understanding and restructuring systems at a foundational level
+* eliminating technical debt instead of carrying it forward
+* making design decisions that support long-term growth
 
-### Reservation & Inventory Flow
-![Reservation mockup](images/Car_Reservation.png)
-Design concept for vehicle reservation and inventory management logic.
+The rebuild will take time, but the goal is to do it **right**, not fast.
 
-### Engine & Parts System
-![Engine mockup](images/Engine_Shop.png)
-Mockup illustrating the intended modular engine system with performance stats and upgrade paths.
+---
 
+## Repository Purpose
+
+This repository exists to document the rebuilding process, track progress, and preserve reference material from the original project where applicable.
+
+It is not a live version of the game.
+
+---
+
+## Collaboration
+
+At this stage, development is being handled independently.
+
+Collaboration may be considered in the future once the project reaches a more stable and clearly defined state.
+
+---
+
+## Final Note
+
+GTRacer has been around for a long time, and it still has people who remember it.
+
+That matters.
+
+The goal is to bring it back in a way that lives up to what it could have been — not simply what it was.
+
+---
 
 ## Contact
-- Email: RedStingray73@gtracer.net
 
+At this time, I’m not actively seeking collaboration or external involvement. Updates will be shared through this repository as development progresses.
